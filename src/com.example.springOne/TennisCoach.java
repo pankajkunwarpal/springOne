@@ -12,6 +12,7 @@ public class TennisCoach implements Coach {
     @Qualifier("componentService")
     private FortuneService fortuneService;
 
+
     public TennisCoach() {
         System.out.println("   Tennis Coach");
     }

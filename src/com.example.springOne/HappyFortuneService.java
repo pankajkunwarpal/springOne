@@ -3,6 +3,7 @@ package com.example.springOne;
 
 import org.springframework.stereotype.Component;
 
+
 @Component
 public class HappyFortuneService implements FortuneService{
 
